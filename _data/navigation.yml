@@ -38,9 +38,9 @@ categories:
 
   - title: "포트폴리오"
     children:
-      - title: "Milktea Kiosk"
+      - title: "밀크티 키오스크"
         url: /categories/milktea-kiosk/
-      - title: "QR Attendance System"
+      - title: "QR 출석 모임 웹"
         url: /categories/attendance-system/
       - title: "주식 자동매매 앱"
-        url: /categories/categories9/
+        url: /categories/stock-bot/
