@@ -36,9 +36,9 @@ categories:
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "포트폴리오"
+  - title: "포트폴리오!"
     children:
-      - title: "Milktea-Kiosk"
+      - title: "Milktea_Kiosk"
         url: /categories/milktea-kiosk/
       - title: "QR 출석 모임 웹"
         url: /categories/categories8/
