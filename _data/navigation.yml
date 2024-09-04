@@ -29,7 +29,7 @@ categories:
       - title: "Categories4"
         url: /categories/categories4/
 
-  - title: "Title2"
+  - title: "Title2!!!!"
     children:
       - title: "Categories5"
         url: /categories/categories5/
@@ -38,7 +38,7 @@ categories:
 
   - title: "포트폴리오"
     children:
-      - title: "밀크티 키오스크"
+      - title: "Milktea"
         url: /categories/milktea/
       - title: "QR 출석 모임 웹"
         url: /categories/categories8/
