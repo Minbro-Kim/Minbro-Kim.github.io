@@ -36,7 +36,11 @@ categories:
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "Title3"
+  - title: "포트폴리오"
     children:
-      - title: "Categories7"
+      - title: "밀크티 키오스크"
         url: /categories/categories7/
+      - title: "QR 출석 모임 웹"
+        url: /categories/categories8/
+      - title: "주식 자동매매 앱"
+        url: /categories/categories9/

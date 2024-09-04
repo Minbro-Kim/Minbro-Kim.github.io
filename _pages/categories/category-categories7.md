@@ -1,5 +1,5 @@
 ---
-title: "77777"
+title: "밀크티 키오스크"
 layout: category
 permalink: /categories/categories7/
 author_profile: true
