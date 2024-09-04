@@ -20,7 +20,7 @@ main:
 categories:
   - title: "Title1"
     children:
-      - title: "Categories134"
+      - title: "Categories1"
         url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
@@ -36,7 +36,7 @@ categories:
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "포트폴리오"
+  - title: "포트폴리오!"
     children:
       - title: "밀크티 키오스크"
         url: /categories/milkTea/
