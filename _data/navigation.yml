@@ -36,10 +36,10 @@ categories:
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "포트폴리오!"
+  - title: "포트폴리오"
     children:
       - title: "밀크티 키오스크"
-        url: /categories/milkTea/
+        url: /categories/milktea/
       - title: "QR 출석 모임 웹"
         url: /categories/categories8/
       - title: "주식 자동매매 앱"

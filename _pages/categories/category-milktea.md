@@ -1,9 +1,9 @@
 ---
 title: "밀크티 키오스크"
 layout: category
-permalink: /categories/milkTea/
+permalink: /categories/milktea/
 author_profile: true
-taxonomy: MilkTea
+taxonomy: Milktea
 sidebar:
   nav: "categories"
 ---
