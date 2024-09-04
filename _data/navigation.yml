@@ -20,7 +20,7 @@ main:
 categories:
   - title: "Title1"
     children:
-      - title: "Categories1"
+      - title: "Categories134"
         url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
@@ -38,7 +38,7 @@ categories:
 
   - title: "포트폴리오"
     children:
-      - title: "Categories7"
+      - title: "밀크티 키오스크"
         url: /categories/categories7/
       - title: "QR 출석 모임 웹"
         url: /categories/categories8/
