@@ -1,9 +1,9 @@
 ---
 title: "QR 출석 모임 웹"
 layout: category
-permalink: /categories/categories8/
+permalink: /categories/attendance-system/
 author_profile: true
-taxonomy: Categories8
+taxonomy: QR 출석 모임 웹
 sidebar:
   nav: "categories"
 ---
