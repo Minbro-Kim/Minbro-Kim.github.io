@@ -36,7 +36,7 @@ last_modified_at: 2024-09-05
 
 #### 코드 블록 예시
 ##### 1. Python 코드 블록
-```markdown
+
 ```python
 def greet():
     print("Hello, World!")
