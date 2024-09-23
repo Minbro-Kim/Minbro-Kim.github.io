@@ -1,5 +1,5 @@
 ---
-title: "소장장이가 되고싶은 대장장이."
+title: "소장장이가 되고싶은 대장장이"
 permalink: /about/
 layout: single
 comments: false
