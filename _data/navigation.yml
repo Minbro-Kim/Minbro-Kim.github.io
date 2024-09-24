@@ -18,7 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "Title1"
+  - title: "프로그래밍 언어"
     children:
       - title: "Categories1"
         url: /categories/categories1/
@@ -29,7 +29,7 @@ categories:
       - title: "Categories4"
         url: /categories/categories4/
 
-  - title: "Title2"
+  - title: "프레임워크"
     children:
       - title: "Categories5"
         url: /categories/categories5/
@@ -44,3 +44,11 @@ categories:
         url: /categories/attendance-system/
       - title: "주식 자동매매 앱"
         url: /categories/stock-bot/
+
+  - title: "GitHub Pages"
+    children:
+      - title: "기본 사용법"
+        url: /categories/milktea-kiosk/
+      - title: "기능"
+        url: /categories/attendance-system/
+

@@ -1,13 +1,13 @@
 ---
-title: "[밀크티 키오스크] 포트폴리오"
-excerpt: "JAVA Swing으로 개발한 밀크티 키오스크 프로그램"
+title: "[GitHub Pages] 본문 작성법"
+excerpt: "마크다운 형식으로 본문 작성하기"
 
 categories:
-  - 밀크티 키오스크
+  - 기본 사용법
 tags:
   - [tag1, tag2]
 
-permalink: /milktea_kiosk/post-milktea-kiosk-1/
+permalink: /basic_instruction/post-basic-instruction-1/
 
 toc: true
 toc_sticky: true
