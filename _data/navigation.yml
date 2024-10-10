@@ -48,7 +48,7 @@ categories:
   - title: "GitHub Pages"
     children:
       - title: "기본 사용법"
-        url: /categories/milktea-kiosk/
+        url: /categories/basic-instruction/
       - title: "기능"
         url: /categories/attendance-system/
 
