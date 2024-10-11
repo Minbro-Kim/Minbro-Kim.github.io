@@ -1,9 +1,9 @@
 ---
-title: "55555"
+title: "Fast API"
 layout: category
-permalink: /categories/categories5/
+permalink: /categories/fast-api/
 author_profile: true
-taxonomy: Categories5
+taxonomy: Fast API
 sidebar:
   nav: "categories"
 ---

@@ -31,10 +31,10 @@ categories:
 
   - title: "프레임워크"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
-      - title: "Categories6"
-        url: /categories/categories6/
+      - title: "Spring boot"
+        url: /categories/spring-boot/
+      - title: "Fast API"
+        url: /categories/fast-api/
 
   - title: "포트폴리오"
     children:
