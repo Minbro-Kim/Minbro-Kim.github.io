@@ -73,9 +73,9 @@ comments: false
   
   <div class="text-content">
     <h2>대장장이</h2>
-    <ul style="list-style: none; padding: 1; margin: 0;">
+    <ul style="list-style: none; padding: 0.5; margin: 0;">
       <li><strong>🧑‍💻 백엔드 개발자</strong></li>
-      <li><strong>🛠️ Java, Python</strong></li>
+      <li><strong>🛠️ Java, Python, R</strong></li>
       <li><strong>✏️ 개발 관련 작업과 프로젝트 포트폴리오 기록</strong></li>
       <li>📬 <strong><a href="mailto:sojangjangi@gmail.com">sojangjangi@gmail.com</a></strong></li>
     </ul>
