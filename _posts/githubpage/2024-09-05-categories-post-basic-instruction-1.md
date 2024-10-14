@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /basic_instruction/post-basic-instruction-1/
+permalink: /basic_instruction/post-1/
 
 toc: true
 toc_sticky: true
@@ -16,7 +16,7 @@ date: 2024-09-05
 last_modified_at: 2024-09-05
 ---
 
-# 본문 제목을 샵 하나로 하는건 어때
+# 본문 제목을 샵 하나로 하는건 어때 gkfkfkfkkfk!!
 ## 🦥 본문
 
 본문은 여기에 ... 왜 안 바뀔까...ㅜ
