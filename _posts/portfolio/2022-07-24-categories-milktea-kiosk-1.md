@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목1을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[포트폴리오] 밀크티 키오스크"
+excerpt: "자바 Swing을 활용한 밀크티 키오스크"
 
 categories:
   - 밀크티 키오스크
@@ -12,7 +12,7 @@ permalink: milktea-kiosk/milktea-kiosk-1/
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
+date: 2023-06-21
 last_modified_at: 2021-10-09
 ---
 
