@@ -36,7 +36,7 @@ categories:
       - title: "Fast API"
         url: /categories/fast-api/
 
-  - title: "포트폴리오"
+  - title: "프로젝트"
     children:
       - title: "밀크티 키오스크"
         url: /categories/milktea-kiosk/
