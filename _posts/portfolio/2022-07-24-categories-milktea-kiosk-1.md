@@ -19,8 +19,8 @@ last_modified_at: 2023-12-21
 ## 프로젝트 개요
 - **제목**: 공차 키오스크 프로그램
 - **개발 기간**: 2023년 11월 ~ 2023년 12월  
-- **개발 인원**: 1인  
-- **개발 배경경**: 기존 카페 키오스크의 불편한 UI를 개선하고, 더 효율적인 메뉴 선택 기능을 제공
+- **개발 인원**: 1인
+- **개발 배경**: 기존 카페 키오스크의 불편한 UI를 개선하고, 더 효율적인 메뉴 선택 기능을 제공
 ---
 
 ## 기술 스택
@@ -68,15 +68,15 @@ last_modified_at: 2023-12-21
 - CSV 파일
 ![Image](https://github.com/user-attachments/assets/3014b0ca-039c-4e8c-a7fd-2410d2e6c395)
 
-## 시연 영상
+### 시연 영상
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/watch?v=PR3w_rPXtrw" 
+    src="https://www.youtube.com/embed/mjq-E4RQMaQ" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
 
----
+
 ## 성과
 - A+ 평가를 받은 프로젝트: 교수님과 동료들로부터 우수한 평가를 받음
 ---
