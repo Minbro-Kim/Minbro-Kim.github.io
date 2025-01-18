@@ -80,7 +80,8 @@ last_modified_at: 2023-12-21
 
 
 ## 성과
-- A+ 평가를 받은 프로젝트: 교수님과 동료들로부터 우수한 평가를 받음
+- A+ 평가: 교수님과 동료들로부터 우수한 평가를 받음
+
 ---
 ## 소스코드
 - [Github 바로가기](https://github.com/Minbro-Kim/Java_Kiosk)
