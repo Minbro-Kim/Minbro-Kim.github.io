@@ -38,7 +38,7 @@ categories:
 
   - title: "프로젝트"
     children:
-      - title: "밀크티 키오스크"
+      - title: "카페 키오스크"
         url: /categories/milktea-kiosk/
       - title: "QR 출석 모임 웹"
         url: /categories/attendance-system/
