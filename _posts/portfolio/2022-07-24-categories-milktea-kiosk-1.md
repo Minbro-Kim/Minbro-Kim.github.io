@@ -17,7 +17,7 @@ last_modified_at: 2023-12-21
 ---
 
 ## 프로젝트 개요
-- **프로그램명**: 공차 키오스크 프로그램
+- **프로그램명**: <mark>공차 키오스크 프로그램</mark>
 - **개발 기간**: 2023년 11월 ~ 2023년 12월  
 - **인력 구성**: 개인
 - **역할**
@@ -71,7 +71,7 @@ last_modified_at: 2023-12-21
 
 ### 시연 영상
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/k2u8Hg-rHdE"
+    src="https://www.youtube.com/embed/hHEuREeWkzU"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
