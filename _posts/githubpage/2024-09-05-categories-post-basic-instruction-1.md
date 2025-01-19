@@ -52,6 +52,7 @@ def greet():
     print("Hello, World!")
 greet
 ```
+이 부분은 <mark>강조</mark>된 텍스트입니다.
 
 넘어가자
 <span style="color: rgb(255, 165, 0);">RGB로 설정한 글자</span>
