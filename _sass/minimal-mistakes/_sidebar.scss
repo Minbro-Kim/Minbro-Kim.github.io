@@ -362,6 +362,15 @@
   }
 }
 
-.sidebar a:hover {
-    color: $primary-color !important; /* 사이드바의 링크 hover 색상 고정 */
+.sidebar a:hover,
+.sidebar a:focus,
+.sidebar a:active,
+.sidebar a.current {
+    color: $primary-color !important;
+}
+
+.sidebar__right .toc a:hover,
+.sidebar__right .toc a:focus,
+.sidebar__right .toc a:active {
+    color: $primary-color !important; 
 }
