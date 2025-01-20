@@ -24,7 +24,7 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 70%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 80%) !default;
 
-$active-color: mix($primary-color, $background-color, 5%) !default;
+$active-color: mix($primary-color, $background-color,20%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $text-color !default;
