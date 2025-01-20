@@ -449,8 +449,11 @@
     font-size: ($type-size-6 + $type-size-5) / 2;
     font-weight: 500;
 
-    &:hover {
-      color: rgba($text-color, 0.8);
+    &:hover,
+    &:focus,
+    &.active,
+    &.current {
+      color: rgba($primary-color, 0.85);
     }
   }
 

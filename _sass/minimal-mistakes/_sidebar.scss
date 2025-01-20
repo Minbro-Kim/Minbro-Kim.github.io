@@ -362,15 +362,7 @@
   }
 }
 
-.sidebar a:hover,
-.sidebar a:focus,
-.sidebar a:active,
-.sidebar a.current {
-    color: $primary-color !important;
-}
-
 .sidebar__right .toc a:hover,
-.sidebar__right .toc a:focus,
-.sidebar__right .toc a:active {
-    color: $primary-color !important; 
+.sidebar__right .toc a:focus {
+    color: rgba($primary-color, 0.85) !important; 
 }
