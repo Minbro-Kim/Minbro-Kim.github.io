@@ -362,3 +362,6 @@
   }
 }
 
+.sidebar a:hover {
+    color: $primary-color !important; /* 사이드바의 링크 hover 색상 고정 */
+}
