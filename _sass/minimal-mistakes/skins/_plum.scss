@@ -82,3 +82,7 @@ $base0f: #cc6633 !default;
 * {
     cursor: url('/assets/images/cursor/cursor-basic.png') 16 16, auto;
 }
+
+a {
+    cursor: url('/assets/images/cursor/cursor-pointer.png') 16 16, pointer;
+}
