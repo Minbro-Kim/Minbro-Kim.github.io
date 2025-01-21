@@ -86,3 +86,8 @@ $base0f: #cc6633 !default;
 a {
     cursor: url('/assets/images/cursor/cursor-pointer.png') 16 16, pointer;
 }
+
+/* 버튼 등 포인터가 필요한 다른 곳에도 적용 */
+button, .button, .btn{
+    cursor: url('/assets/images/cursor/cursor-pointer.png') 16 16, pointer;
+}
