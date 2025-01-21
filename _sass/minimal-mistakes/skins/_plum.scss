@@ -80,11 +80,11 @@ $base0f: #cc6633 !default;
 }
 
 * {
-    cursor: url('/assets/images/cursor/cursor-basic.png') 16 16, auto;
+    cursor: url('/assets/images/cursor/cursor-basic.png') 16 10, auto;
 }
 
 a {
-    cursor: url('/assets/images/cursor/cursor-pointer.png') 16 16, pointer;
+    cursor: url('/assets/images/cursor/cursor-pointer.png') 10 16, pointer;
 }
 
 /* 버튼 등 포인터가 필요한 다른 곳에도 적용 */
