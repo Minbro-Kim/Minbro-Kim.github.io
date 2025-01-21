@@ -78,3 +78,7 @@ $base0f: #cc6633 !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+body {
+    cursor: url('../assets/images/cursor/cursor-basic.png') 16 16, auto;
+}
