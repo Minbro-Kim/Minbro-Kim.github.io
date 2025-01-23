@@ -12,8 +12,8 @@ permalink: /attendance-system/attendance-system-1
 toc: true
 toc_sticky: true
 
-date: 2024-07-25
-last_modified_at: 2023-07-25
+date: 2024-06-25
+last_modified_at: 2024-06-25
 ---
 
 ![QR 포트폴리오 배너](https://github.com/user-attachments/assets/50ae8529-42f5-4554-bdc3-a1b34028fe9a)
