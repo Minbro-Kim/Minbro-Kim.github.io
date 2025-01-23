@@ -16,7 +16,7 @@ date: 2024-06-25
 last_modified_at: 2024-06-25
 ---
 
-![QR 포트폴리오 배너](https://github.com/user-attachments/assets/50ae8529-42f5-4554-bdc3-a1b34028fe9a)
+![QR 포트폴리오 배너](https://github.com/user-attachments/assets/e08e5871-a552-4b6a-8ed1-642cf90cbcd3)
 
 ## 프로젝트 개요
 - **프로그램명**: <mark>QR코드 스마트 출석 모임 시스템</mark>
