@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /attendance-system/post-name-here-8/
+permalink: /attendance-system/attendance-system-1
 
 toc: true
 toc_sticky: true
