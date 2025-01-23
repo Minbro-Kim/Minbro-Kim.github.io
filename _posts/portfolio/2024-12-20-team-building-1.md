@@ -1,22 +1,23 @@
 ---
-title: "[포트폴리오] QR코드 스마트 출석 모임 시스템"
-excerpt: "QR코드의 만료시간을 활용한 부정 출석 방지 모임 시스템"
+title: "[포트폴리오] 프로젝트 팀빌딩 시스템"
+excerpt: "사내 데이터를 이용한 프로젝트 팀빌딩 시스템"
 
 categories:
-  - QR 출석 모임 웹
+  - 프로젝트 팀빌딩
 tags:
   - [tag1, tag2]
 
-permalink: /attendance-system/attendance-system-1
+permalink: /team-building/team-building-1
 
 toc: true
 toc_sticky: true
 
-date: 2024-06-25
-last_modified_at: 2024-06-25
+date: 2024-12-20
+last_modified_at: 2024-12-20
 ---
 
-![QR 포트폴리오 배너](https://github.com/user-attachments/assets/8703f12a-aad9-4f79-b2f5-0519065d4949)
+
+![팀빌딩 배너](https://github.com/user-attachments/assets/492e3b5a-5d80-4d77-b797-606d56846706)
 
 ## 프로젝트 개요
 - **프로그램명**: <mark>QR코드 스마트 출석 모임 시스템</mark>
@@ -52,11 +53,10 @@ last_modified_at: 2024-06-25
 
 ---
 ## 시스템 구조도
-- 블록 다이어그램
-![중간보고서 블록 다이어그램](https://github.com/CSID-DGU/2024-1-OSSProj-WelcomeOPSO-06/assets/162423839/8431b7ab-d860-45f2-96b5-ba04fc0fae5b)
-- 시퀀스 다이어그램
-![시퀀스 다이어그램](https://github.com/user-attachments/assets/b0385bf7-ae8d-4e1b-988e-1b5751ecea7d)
-
+- 시스템 아키텍처
+![시스템 아키텍처](https://github.com/user-attachments/assets/f162c6b2-4497-4311-8e01-5e55f908f558)
+- ERD
+![ERD](https://github.com/user-attachments/assets/3c3b069b-61bc-454e-8177-fd32d9be1e29)
 
 ## 주요 기능
 
@@ -79,6 +79,9 @@ last_modified_at: 2024-06-25
    - QR코드는 <mark>15초마다 재생성</mark>되며, 만료된 QR코드는 사용 불가
    - 참여자는 QR코드를 스캔하여 출석
    - 지각 처리 가능 시간 이후에도 출석하지 않은 참여자는 결석으로 처리
+
+### 유스케이스
+![유스케이스](https://github.com/user-attachments/assets/8c0a77f5-290e-49e6-a0e3-e849c310ea0f)
 
 ---
 
@@ -116,4 +119,4 @@ last_modified_at: 2024-06-25
 
 ---
 ## 소스코드
-- [Github 바로가기](https://github.com/Minbro-Kim/2024-1-OSSProj-WelcomeOPSO-06)
+- [Github 바로가기](https://github.com/Minbro-Kim/2024-1-VSA-BeRich)
