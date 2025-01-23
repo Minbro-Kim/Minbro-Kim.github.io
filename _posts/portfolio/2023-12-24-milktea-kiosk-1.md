@@ -17,8 +17,6 @@ last_modified_at: 2023-12-21
 ---
 ![키오스크 배너](https://github.com/user-attachments/assets/4d569da1-6962-405d-9b0f-b6cc15a90a84)
 
-![Image](https://github.com/user-attachments/assets/a28e6c45-bea1-43eb-a4d0-fa62328c37d7)
-
 ## 프로젝트 개요
 - **프로그램명**: <mark>공차 키오스크 프로그램</mark>
 - **소개**: 기존 카페 키오스크의 불편한 UI를 개선하고, 더 효율적인 메뉴 선택 기능을 제공
