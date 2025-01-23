@@ -17,7 +17,7 @@ last_modified_at: 2024-12-20
 ---
 
 
-![팀빌딩 배너](https://github.com/user-attachments/assets/171fe01e-3e1d-44ea-a560-cfe3b7400d92)
+![팀빌딩 배너](https://github.com/user-attachments/assets/96668b08-542e-4944-9714-b74ce0894a80)
 
 ## 프로젝트 개요
 - **프로그램명**: <mark>QR코드 스마트 출석 모임 시스템</mark>
