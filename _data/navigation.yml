@@ -46,6 +46,8 @@ categories:
         url: /categories/stock-bot/
       - title: "팀빌딩 시스템"
         url: /categories/team-building/
+      - title: "RAG 챗봇"
+        url: /categories/chatbot/
 
   - title: "GitHub Pages"
     children:

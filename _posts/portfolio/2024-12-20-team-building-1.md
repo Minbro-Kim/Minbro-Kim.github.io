@@ -52,7 +52,7 @@ last_modified_at: 2024-12-20
     - 두 개의 백엔드 서버와 한 개의 프론트엔드 서버 Docker image를 docker-compose 파일로 `AWS Elastic Beanstalk`로 서버에 배포
     - 데이터베이스를 AWS의 RDS로 배포
 
-- **성과**: `특허 출헌`
+- **성과**: `특허 출원`
 
 ---
 
