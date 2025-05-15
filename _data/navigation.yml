@@ -22,8 +22,6 @@ categories:
     children:
       - title: "Categories1"
         url: /categories/categories1/
-      #- title: "Categories22"
-      #  url: /categories/categories2/
       - title: "JAVA"
         url: /categories/java/
       #- title: "Categories4"
