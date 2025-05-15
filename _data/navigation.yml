@@ -24,8 +24,8 @@ categories:
         url: /categories/categories1/
       #- title: "Categories22"
       #  url: /categories/categories2/
-      #- title: "Categories3"
-      #  url: /categories/categories3/
+      - title: "JAVA"
+        url: /categories/java/
       #- title: "Categories4"
       #  url: /categories/categories4/
 
