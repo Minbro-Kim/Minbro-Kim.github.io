@@ -20,20 +20,20 @@ main:
 categories:
   - title: "프로그래밍 언어"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
+      #- title: "Categories1"
+      #  url: /categories/categories1/
       - title: "JAVA"
         url: /categories/java/
       #- title: "Categories4"
       #  url: /categories/categories4/
-
-  - title: "프레임워크"
-    children:
-      - title: "Spring boot"
-        url: /categories/spring-boot/
-      - title: "Fast API"
-        url: /categories/fast-api/
-
+###
+#  - title: "프레임워크"
+#    children:
+#      - title: "Spring boot"
+#        url: /categories/spring-boot/
+#      - title: "Fast API"
+#        url: /categories/fast-api/
+#
   - title: "프로젝트"
     children:
       - title: "카페 키오스크"
@@ -51,6 +51,6 @@ categories:
     children:
       - title: "기본 사용법"
         url: /categories/basic-instruction/
-      - title: "기능"
-        url: /categories/attendance-system/
+      #- title: "기능"
+      #  url: /categories/attendance-system/
 
