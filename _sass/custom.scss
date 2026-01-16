@@ -28,3 +28,14 @@
     margin-top: -56px;
   }
 }
+/* 검색창 placeholder / 입력 텍스트 스타일 조정 */
+.search-input {
+  font-size: 1.5rem !important;          // 기본 텍스트 크기
+  color: #222;              // 입력 텍스트 색
+
+  &::placeholder {
+    font-size: 1.5rem;      // placeholder 글씨 조금 작게
+    color: $primary-color;           // 연한 회색 (너무 연하지 않게)
+  }
+}
+
