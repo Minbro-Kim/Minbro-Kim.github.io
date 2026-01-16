@@ -38,4 +38,20 @@
     color: $primary-color;           // 연한 회색 (너무 연하지 않게)
   }
 }
+.archive__item.is-pinned {
+  position: relative;
+  padding-left: 1.75rem; // 핀 아이콘 공간 확보
+}
+
+.archive__item.is-pinned::before {
+  content: "\f08d"; //"\f6e2"; // FontAwesome 핀 아이콘 (fa-thumbtack)
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900; // solid
+  position: absolute;
+  left: 0;
+  top: 1.5rem;
+  color: $link-color-hover;//$primary-color; // 노란색 핀
+  font-size: 1rem;
+}
+
 
