@@ -1,0 +1,30 @@
+/* 헤더에 가려지는 문제 해결 */
+
+/* 본문을 헤더 아래에서 시작 */
+
+/* 목차 클릭 시 제목 위치 보정 */
+/* Anchor offset for fixed header */
+.page__content h1::before,
+.page__content h2::before,
+.page__content h3::before,
+.page__content h4::before,
+.page__content h5::before,
+.page__content h6::before {
+  content: "";
+  display: block;
+  height: 70px;          /* 헤더 높이 */
+  margin-top: -70px;
+  visibility: hidden;
+}
+/* 모바일 */
+@media (max-width: 767px) {
+  .page__content h1::before,
+  .page__content h2::before,
+  .page__content h3::before,
+  .page__content h4::before,
+  .page__content h5::before,
+  .page__content h6::before {
+    height: 56px;
+    margin-top: -56px;
+  }
+}
