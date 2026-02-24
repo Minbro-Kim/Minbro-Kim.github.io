@@ -24,6 +24,8 @@ categories:
       #  url: /categories/categories1/
       - title: "JAVA"
         url: /categories/java/
+      - title: "Spring Boot"
+        url: /categories/springboot/
       - title: "Git"
         url: /categories/git/
 #

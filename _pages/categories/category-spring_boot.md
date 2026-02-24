@@ -1,9 +1,9 @@
 ---
-title: "Spring boot"
+title: "Spring Boot"
 layout: category
-permalink: /categories/spring-boot/
+permalink: /categories/springboot/
 author_profile: true
-taxonomy: Spring boot
+taxonomy: Spring Boot
 sidebar:
   nav: "categories"
 ---
