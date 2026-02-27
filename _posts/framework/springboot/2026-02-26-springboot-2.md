@@ -136,6 +136,14 @@ last_modified_at: 2026-02-26
 - 트랜잭션 보장
   - WS-AtomicTransaction
     - SOAP 메시지 내부에서 ACID 트랜잭션 관리 가능
+    - 2-Phase Commit 방식
+      - 1단계: 준비 (Prepare)
+        - 트랜잭션 관리자(Coordinator)가 모든 관련 서버(A은행, B은행 등)에 준비 확인 
+        - 각 서버는 자기 상태를 점검하고 응답(`<wsat:Prepared/> 같은 태그`)
+        - 참여 서버가 자신의 자원에 Lock
+      - 2단계: 결정 (Commit/Rollback)
+        - 모두 준비 완료 상태면 Coordinator가 Commit 명령
+        - 한 곳이라도 실패했을 때: Coordinator가 Rollback 명령
 
 #### ✔ 한계
 - 무겁고 복잡한 XML 구조\
