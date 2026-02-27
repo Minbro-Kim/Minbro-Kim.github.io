@@ -1,5 +1,5 @@
 ---
-title: "소장장이가 되고싶은 대장장이"
+title: "About MINBROG"
 permalink: /about/
 layout: single
 comments: false
@@ -76,8 +76,8 @@ comments: false
     <ul style="list-style: none; padding: 5px; margin: 0;">
       <li><strong>🧑‍💻 백엔드 개발자</strong></li>
       <li><strong>🛠️ Java, Python, R</strong></li>
-      <li><strong>✏️ 개발 관련 작업과 프로젝트 포트폴리오 기록</strong></li>
-      <li>📬 <strong><a href="mailto:sojangjangi@gmail.com">sojangjangi@gmail.com</a></strong></li>
+      <li><strong>✏️ 개발과 프로젝트 포트폴리오 기록</strong></li>
+      <li>📬 <strong><a href="mailto:minbro9916@gmail.com">minbro9916@gmail.com</a></strong></li>
     </ul>
   </div>
 </div>
@@ -85,4 +85,4 @@ comments: false
 
 ## 상세소개
 
-🖐️ 안녕하세요. 소프트웨어 장인, 소장장이가 되고 싶은 대장장이입니다. 
+🖐️ Minbro' log입니다.

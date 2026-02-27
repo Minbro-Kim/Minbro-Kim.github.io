@@ -50,8 +50,10 @@ public enum ExceptionCode {
         this.message = message;
     }
 }
-
 ```
+
+----
+
 ## 2. Business Logic Exception Class
 - 비즈니스 로직에 대한 예외 클래스
   - `RuntimeException`을 상속
@@ -72,6 +74,8 @@ public class BusinessLogicException extends RuntimeException {
     }
 }
 ```
+
+----
 
 ## 3. Error Response Class
 - 예외 응답 DTO 클래스
@@ -181,6 +185,7 @@ public static class ConstraintViolationError{
     }
 }
 ```
+----
 
 ## 4. GlobalExceptionHandler Class
 - 전역 예외처리를 위한 핸들러 클래스
@@ -219,6 +224,8 @@ public class GlobalExceptionHandler {
     }
 }
 ```
+
+----
 
 ## 5. 응답 예시
 
