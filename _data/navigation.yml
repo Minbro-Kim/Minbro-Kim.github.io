@@ -48,6 +48,8 @@ categories:
         url: /categories/team-building/
       - title: "RAG 챗봇"
         url: /categories/chatbot/
+      - title: "Sprint 프로젝트"
+        url: /categories/sprint/
 
   - title: "GitHub Pages"
     children:
