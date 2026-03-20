@@ -1,5 +1,5 @@
 ---
-title: "About MINBROG"
+title: "About MINBRO"
 permalink: /about/
 layout: single
 comments: false
@@ -72,7 +72,7 @@ comments: false
   <img src="../assets/images/meee.png" alt="대장장이 이미지">
   
   <div class="text-content">
-    <h2>대장장이</h2>
+    <h2>MINBRO</h2>
     <ul style="list-style: none; padding: 5px; margin: 0;">
       <li><strong>🧑‍💻 백엔드 개발자</strong></li>
       <li><strong>🛠️ Java, Python, R</strong></li>
