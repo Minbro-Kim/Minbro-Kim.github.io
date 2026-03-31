@@ -84,8 +84,9 @@ last_modified_at: 2026-03-31
   ```
 
 #### 배치 작동 확인
-- 하이버네이트 로그는 준비된 쿼리를 모두 보여줌
-  → **하이버네이트 통계** 설정 필요 → `[... nanoseconds spent executing 1 JDBC batches]`
+- 하이버네이트 로그는 준비된 쿼리를 모두 보여줌\
+  → **하이버네이트 통계** 설정 필요\
+  → `[... nanoseconds spent executing 1 JDBC batches]`
 - `application.yml`
 ```yaml
 spring:
