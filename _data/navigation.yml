@@ -18,7 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "프로그래밍"
+  - title: "Programming"
     children:
       #- title: "Categories1"
       #  url: /categories/categories1/
@@ -28,6 +28,15 @@ categories:
         url: /categories/springboot/
       - title: "Git"
         url: /categories/git/
+
+  - title: "DevOps & Infra"
+    children:
+      - title: "CI/CD"
+        url: /categories/cicd/
+      - title: "AWS"
+        url: /categories/aws/
+      - title: "Database"
+        url: /categories/database/
 #
 #  - title: "프레임워크"
 #    children:
@@ -36,7 +45,7 @@ categories:
 #      - title: "Fast API"
 #        url: /categories/fast-api/
 #
-  - title: "프로젝트"
+  - title: "Projects"
     children:
       - title: "카페 키오스크"
         url: /categories/milktea-kiosk/
@@ -51,10 +60,10 @@ categories:
       - title: "Sprint 프로젝트"
         url: /categories/sprint/
 
-  - title: "GitHub Pages"
-    children:
-      - title: "기본 사용법"
-        url: /categories/basic-instruction/
+#  - title: "GitHub Pages"
+#    children:
+#      - title: "기본 사용법"
+#        url: /categories/basic-instruction/
       #- title: "기능"
       #  url: /categories/attendance-system/
 
