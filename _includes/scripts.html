@@ -26,3 +26,14 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- 모든 이미지 클릭 시 미디엄 스타일로 확대해주는 스크립트 -->
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    mediumZoom('.page__content img', {
+      margin: 24,
+      background: 'rgba(0, 0, 0, 0.8)' // 확대 시 배경 어둡기 조절
+    });
+  });
+</script>
