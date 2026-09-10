@@ -54,4 +54,15 @@
   font-size: 1rem;
 }
 
+/* 본문 이미지 바로 다음에 나오는 이탤릭체(em)를 자동으로 캡션으로 변환 */
+p > img + em,
+p > img + br + em {
+  display: block;
+  text-align: center;
+  font-size: 0.85em;
+  color: #777777;
+  font-style: normal; /* 이탤릭체 기울임을 바르게 펴줌 */
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
 
