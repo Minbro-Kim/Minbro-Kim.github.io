@@ -35,8 +35,15 @@ categories:
         url: /categories/cicd/
       - title: "AWS"
         url: /categories/aws/
-      - title: "Database"
-        url: /categories/database/
+      - title: "Cloud Services"
+        url: /categories/cloud-services/
+
+  - title: "Database"
+    children:
+      - title: "SQL"
+        url: /categories/sql/
+      - title: "NoSQL"
+        url: /categories/nosql/
 #
 #  - title: "프레임워크"
 #    children:

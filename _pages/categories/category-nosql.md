@@ -1,9 +1,9 @@
 ---
-title: "Database"
+title: "NoSQL"
 layout: category
-permalink: /categories/database/
+permalink: /categories/nosql/
 author_profile: true
-taxonomy: Database
+taxonomy: NoSQL
 sidebar:
   nav: "categories"
 ---
